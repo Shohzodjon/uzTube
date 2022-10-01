@@ -1,0 +1,248 @@
+.profilePage .wrapper.menu_overlay .sidebar {
+    margin-top: 4%;
+}
+
+.profilePage .watch_page .UzTube_Banner {
+    width: 145%;
+    height: 280px;
+    margin-top: -6%;
+    margin-left: 32%;
+}
+
+.userImgInsideProfile {
+    margin-left: -24%;
+}
+
+.ProfileName_inside_Page {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    /* identical to box height */
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 14px;
+
+    color: #19202C;
+}
+
+.sub_num_inside_page {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 14px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+
+    color: #C2C2C2;
+
+}
+
+.SunscribeNum_nside {
+    position: absolute;
+    right: 50px;
+}
+
+.SunscribeNum_nside button {
+    width: 154px;
+    height: 40px;
+    background: #FF0000;
+    border-radius: 20px;
+    border: none;
+}
+
+.profile_notification {
+    position: absolute;
+    right: 240px;
+}
+
+.profile_notification img {
+    margin-top: 10px;
+}
+
+
+
+.ul_first_User_profile ul li {
+    display: inline-block;
+    padding: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #000000;
+
+}
+
+.ul_first_User_profile .Ul_first_li_user {
+    margin-left: 20%;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #FF0000;
+}
+
+.Ul_Latest_li_user {
+    position: absolute;
+    right: 60px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #C2C2C2 !important;
+}
+
+.ul_first_User_profile ul {
+    width: 128%;
+}
+
+
+
+
+.InsideHomeLi_2 {
+    position: absolute;
+    right: 104px;
+}
+
+.InsideHomeLi_2 ul li {
+    display: block !important;
+}
+
+.InsideHomeLi_2 ul li span {
+    top: -20px;
+    left: 20px;
+    position: relative;
+}
+
+/* .InsideHomeLi_2 ul li .span1_user_P {
+    position: relative;
+    margin-top: 5px;
+} */
+.latest_Ul_Li_user {
+    margin-left: 20px;
+}
+
+.userSection_Basic2 ul li {
+    display: inline-block;
+}
+
+.InsideHomeLi_1 {
+    margin-left: -29%;
+}
+
+.in_User_Page_video {
+    width: 70%;
+    margin-left: 48%;
+    margin-top: 54px;
+}
+
+.Second_Inside_more_li {
+    position: relative;
+    top: -113px;
+    left: 13%;
+}
+
+.Second_Inside_more_li .FIrst_li {
+    float: left;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 34px;
+    /* or 131% */
+
+
+    color: #19202C;
+}
+
+.profilePage .Dollier_recomended_recomended_txt span {
+    margin-left: -46%;
+    margin-top: 51px;
+}
+
+.profilePage .column2 img {
+    margin-left: 123%;
+}
+
+.Mobile_Profile_page {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .profilePage {
+        display: none;
+    }
+
+    .Mobile_Profile_page {
+        display: block;
+    }
+
+    .UzTube_Banner {
+        width: 100%;
+    }
+
+    .Morgat_phile_name_mob {
+        margin-left: -42%;
+        margin-top: -12%;
+    }
+
+    .watch_page4 button {
+        background: #FF0000;
+        border-radius: 20px;
+        width: 120px;
+        height: 34px;
+        border: none;
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        /* identical to box height */
+        margin-left: -52%;
+        margin-top: 20px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .watch_page4 ul li {
+        display: inline-block;
+        margin-left: 40px;
+    }
+
+    .watch_page4 ul {
+        margin-left: -16%;
+        margin-top: 5%;
+    }
+
+    .Home_li_user_Page {
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+        text-decoration-line: underline;
+
+        color: #FF0000;
+
+    }
+
+    .watch_page4 .Mobile_Img_section img
+    {
+        width: 96%;
+    }
+}
